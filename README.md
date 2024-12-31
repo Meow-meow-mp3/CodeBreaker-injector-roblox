@@ -3,7 +3,8 @@
 Он так же работает как и остальные инжекторы и оно находиться в Альфа версии
 
 Чтобы инжектор работал коректно, вам потребуеться скачать [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap/releases) это важно если хотите чтобы не было сбоев.
-====
+
+Eng:
 Welcome my little cheater, I present to you a new injector for the game Roblox! The injector is called CodeBreaker.
 It works the same as other injectors and it is in the Alpha version
 
